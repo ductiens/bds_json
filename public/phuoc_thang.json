@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": "2025F",
+    "doanh_thu": 400,
+    "loi_nhuan_gop": 100
+  },
+  {
+    "id": 2,
+    "thoi_gian": "2026F",
+    "doanh_thu": 2000,
+    "loi_nhuan_gop": 500
+  },
+  {
+    "id": 3,
+    "thoi_gian": "2027F",
+    "doanh_thu": 2900,
+    "loi_nhuan_gop": 1000
+  },
+  {
+    "id": 4,
+    "thoi_gian": "2028F",
+    "doanh_thu": 3500,
+    "loi_nhuan_gop": 1400
+  },
+  {
+    "id": 5,
+    "thoi_gian": "2029F",
+    "doanh_thu": 4000,
+    "loi_nhuan_gop": 1500
+  }
+]

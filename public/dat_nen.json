@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": "Q4/2021",
+    "hung_yen": 100,
+    "bac_ninh": 100,
+    "long_an": 100,
+    "dong_nai": 100
+  },
+  {
+    "id": 2,
+    "thoi_gian": "Q1/2022",
+    "hung_yen": 125,
+    "bac_ninh": 115,
+    "long_an": 113,
+    "dong_nai": 105
+  },
+  {
+    "id": 3,
+    "thoi_gian": "Q2/2022",
+    "hung_yen": 109,
+    "bac_ninh": 109,
+    "long_an": 115,
+    "dong_nai": 109
+  },
+  {
+    "id": 4,
+    "thoi_gian": "Q3/2022",
+    "hung_yen": 110,
+    "bac_ninh": 100,
+    "long_an": 120,
+    "dong_nai": 100
+  },
+  {
+    "id": 5,
+    "thoi_gian": "Q4/2022",
+    "hung_yen": 105,
+    "bac_ninh": 105,
+    "long_an": 105,
+    "dong_nai": 105
+  },
+  {
+    "id": 6,
+    "thoi_gian": "Q1/2023",
+    "hung_yen": 88,
+    "bac_ninh": 113,
+    "long_an": 98,
+    "dong_nai": 107
+  },
+  {
+    "id": 7,
+    "thoi_gian": "Q2/2023",
+    "hung_yen": 94,
+    "bac_ninh": 111,
+    "long_an": 110,
+    "dong_nai": 100
+  },
+  {
+    "id": 8,
+    "thoi_gian": "Q3/2023",
+    "hung_yen": 88,
+    "bac_ninh": 110,
+    "long_an": 99,
+    "dong_nai": 110
+  },
+  {
+    "id": 9,
+    "thoi_gian": "Q4/2023",
+    "hung_yen": 90,
+    "bac_ninh": 112,
+    "long_an": 95,
+    "dong_nai": 118
+  },
+  {
+    "id": 10,
+    "thoi_gian": "Q1/2024",
+    "hung_yen": 96,
+    "bac_ninh": 113,
+    "long_an": 82,
+    "dong_nai": 100
+  },
+  {
+    "id": 11,
+    "thoi_gian": "Q2/2024",
+    "hung_yen": 98,
+    "bac_ninh": 114,
+    "long_an": 89,
+    "dong_nai": 104
+  },
+  {
+    "id": 12,
+    "thoi_gian": "Q3/2024",
+    "hung_yen": 100,
+    "bac_ninh": 117,
+    "long_an": 90,
+    "dong_nai": 103
+  }
+]

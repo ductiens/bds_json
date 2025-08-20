@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": "Q3/2021",
+    "so_can": 19000,
+    "so_du_an": 19000
+  },
+  {
+    "id": 2,
+    "thoi_gian": "Q4/2021",
+    "so_can": 15000,
+    "so_du_an": 26000
+  },
+  {
+    "id": 3,
+    "thoi_gian": "Q1/2022",
+    "so_can": 19000,
+    "so_du_an": 19000
+  },
+  {
+    "id": 4,
+    "thoi_gian": "Q2/2022",
+    "so_can": 7000,
+    "so_du_an": 14000
+  },
+  {
+    "id": 5,
+    "thoi_gian": "Q3/2022",
+    "so_can": 25000,
+    "so_du_an": 18000
+  },
+  {
+    "id": 6,
+    "thoi_gian": "Q4/2022",
+    "so_can": 5000,
+    "so_du_an": 6000
+  },
+  {
+    "id": 7,
+    "thoi_gian": "Q1/2023",
+    "so_can": 8000,
+    "so_du_an": 4500
+  },
+  {
+    "id": 8,
+    "thoi_gian": "Q2/2023",
+    "so_can": 4000,
+    "so_du_an": 4000
+  },
+  {
+    "id": 9,
+    "thoi_gian": "Q3/2023",
+    "so_can": 3500,
+    "so_du_an": 3500
+  },
+  {
+    "id": 10,
+    "thoi_gian": "Q4/2023",
+    "so_can": 12000,
+    "so_du_an": 7000
+  },
+  {
+    "id": 11,
+    "thoi_gian": "Q1/2024",
+    "so_can": 10000,
+    "so_du_an": 6500
+  },
+  {
+    "id": 12,
+    "thoi_gian": "Q2/2024",
+    "so_can": 11000,
+    "so_du_an": 6500
+  },
+  {
+    "id": 13,
+    "thoi_gian": "Q3/2024",
+    "so_can": 12000,
+    "so_du_an": 9000
+  }
+]

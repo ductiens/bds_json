@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": "2020",
+    "chi_phi": 110,
+    "loi_nhuan_co_dong": 20
+  },
+  {
+    "id": 2,
+    "thoi_gian": "2021",
+    "chi_phi": 210,
+    "loi_nhuan_co_dong": 0
+  },
+  {
+    "id": 3,
+    "thoi_gian": "2022",
+    "chi_phi": 650,
+    "loi_nhuan_co_dong": 80
+  },
+  {
+    "id": 4,
+    "thoi_gian": "2023",
+    "chi_phi": 500,
+    "loi_nhuan_co_dong": 250
+  },
+  {
+    "id": 5,
+    "thoi_gian": "9T.2024",
+    "chi_phi": 200,
+    "loi_nhuan_co_dong": -10
+  }
+]

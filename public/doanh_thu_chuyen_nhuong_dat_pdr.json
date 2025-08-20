@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": "2018",
+    "ty_dong": 500
+  },
+  {
+    "id": 2,
+    "thoi_gian": "2019",
+    "ty_dong": 3400
+  },
+  {
+    "id": 3,
+    "thoi_gian": "2020",
+    "ty_dong": 4000
+  },
+  {
+    "id": 4,
+    "thoi_gian": "2021",
+    "ty_dong": 3500
+  },
+  {
+    "id": 5,
+    "thoi_gian": "2022",
+    "ty_dong": 1500
+  },
+  {
+    "id": 6,
+    "thoi_gian": "2023",
+    "ty_dong": 600
+  },
+  {
+    "id": 7,
+    "thoi_gian": "9T.2024",
+    "ty_dong": 300
+  }
+]

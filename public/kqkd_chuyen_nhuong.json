@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": "Q4/2022",
+    "doanh_thu": 1560,
+    "loi_nhuan_gop": 800
+  },
+  {
+    "id": 2,
+    "thoi_gian": "Q1/2023",
+    "doanh_thu": 200,
+    "loi_nhuan_gop": 1400
+  },
+  {
+    "id": 3,
+    "thoi_gian": "Q2/2023",
+    "doanh_thu": 900,
+    "loi_nhuan_gop": 800
+  },
+  {
+    "id": 4,
+    "thoi_gian": "Q3/2023",
+    "doanh_thu": 300,
+    "loi_nhuan_gop": 810
+  },
+  {
+    "id": 5,
+    "thoi_gian": "Q4/2023",
+    "doanh_thu": 1560,
+    "loi_nhuan_gop": 800
+  },
+  {
+    "id": 6,
+    "thoi_gian": "Q1/2024",
+    "doanh_thu": 200,
+    "loi_nhuan_gop": 799
+  },
+  {
+    "id": 7,
+    "thoi_gian": "Q2/2024",
+    "doanh_thu": 300,
+    "loi_nhuan_gop": 900
+  },
+  {
+    "id": 8,
+    "thoi_gian": "Q3/2024",
+    "doanh_thu": 400,
+    "loi_nhuan_gop": 600
+  }
+]

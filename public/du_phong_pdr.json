@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": "2022",
+    "doanh_thu": 1900,
+    "lnst": 1800
+  },
+  {
+    "id": 2,
+    "thoi_gian": "2023",
+    "doanh_thu": 900,
+    "lnst": 1000
+  },
+  {
+    "id": 3,
+    "thoi_gian": "F2024",
+    "doanh_thu": 1900,
+    "lnst": 900
+  },
+  {
+    "id": 4,
+    "thoi_gian": "F2025",
+    "doanh_thu": 8100,
+    "lnst": 2000
+  },
+  {
+    "id": 5,
+    "thoi_gian": "F2026",
+    "doanh_thu": 5000,
+    "lnst": 1300
+  }
+]

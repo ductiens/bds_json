@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": 2010,
+    "so_luong": 39000
+  },
+  {
+    "id": 2,
+    "thoi_gian": 2011,
+    "so_luong": 37000
+  },
+  {
+    "id": 3,
+    "thoi_gian": 2012,
+    "so_luong": 12000
+  },
+  {
+    "id": 4,
+    "thoi_gian": 2013,
+    "so_luong": 15000
+  },
+  {
+    "id": 5,
+    "thoi_gian": 2014,
+    "so_luong": 37000
+  },
+  {
+    "id": 6,
+    "thoi_gian": 2015,
+    "so_luong": 60000
+  },
+  {
+    "id": 7,
+    "thoi_gian": 2016,
+    "so_luong": 70000
+  },
+  {
+    "id": 8,
+    "thoi_gian": 2017,
+    "so_luong": 65000
+  },
+  {
+    "id": 9,
+    "thoi_gian": 2018,
+    "so_luong": 60000
+  },
+  {
+    "id": 10,
+    "thoi_gian": 2019,
+    "so_luong": 63000
+  },
+  {
+    "id": 11,
+    "thoi_gian": 2020,
+    "so_luong": 37000
+  },
+  {
+    "id": 12,
+    "thoi_gian": 2021,
+    "so_luong": 30000
+  },
+  {
+    "id": 13,
+    "thoi_gian": 2022,
+    "so_luong": 35000
+  },
+  {
+    "id": 14,
+    "thoi_gian": 2023,
+    "so_luong": 20000
+  },
+  {
+    "id": 15,
+    "thoi_gian": 2024,
+    "so_luong": 22000
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": 2015,
+    "von_giai_ngan": 290000
+  },
+  {
+    "id": 2,
+    "thoi_gian": 2016,
+    "von_giai_ngan": 250000
+  },
+  {
+    "id": 3,
+    "thoi_gian": 2017,
+    "von_giai_ngan": 290000
+  },
+  {
+    "id": 4,
+    "thoi_gian": 2018,
+    "von_giai_ngan": 260000
+  },
+  {
+    "id": 5,
+    "thoi_gian": 2019,
+    "von_giai_ngan": 270000
+  },
+  {
+    "id": 6,
+    "thoi_gian": 2020,
+    "von_giai_ngan": 390000
+  },
+  {
+    "id": 7,
+    "thoi_gian": 2021,
+    "von_giai_ngan": 450000
+  },
+  {
+    "id": 8,
+    "thoi_gian": 2022,
+    "von_giai_ngan": 460000
+  },
+  {
+    "id": 9,
+    "thoi_gian": 2023,
+    "von_giai_ngan": 520000
+  },
+  {
+    "id": 10,
+    "thoi_gian": 2024,
+    "von_giai_ngan": 300000
+  },
+  {
+    "id": 11,
+    "thoi_gian": 2025,
+    "von_giai_ngan": 740000
+  }
+]

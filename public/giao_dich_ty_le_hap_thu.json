@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": "Q3/2021",
+    "luong_giao_dich": 120000,
+    "ty_le_hap_thu": 85
+  },
+  {
+    "id": 2,
+    "thoi_gian": "Q4/2021",
+    "luong_giao_dich": 105000,
+    "ty_le_hap_thu": 91
+  },
+  {
+    "id": 3,
+    "thoi_gian": "Q1/2022",
+    "luong_giao_dich": 180000,
+    "ty_le_hap_thu": 125
+  },
+  {
+    "id": 4,
+    "thoi_gian": "Q2/2022",
+    "luong_giao_dich": 280000,
+    "ty_le_hap_thu": 90
+  },
+  {
+    "id": 5,
+    "thoi_gian": "Q3/2022",
+    "luong_giao_dich": 165000,
+    "ty_le_hap_thu": 135
+  },
+  {
+    "id": 6,
+    "thoi_gian": "Q4/2022",
+    "luong_giao_dich": 160000,
+    "ty_le_hap_thu": 100
+  },
+  {
+    "id": 7,
+    "thoi_gian": "Q1/2023",
+    "luong_giao_dich": 110000,
+    "ty_le_hap_thu": 55
+  },
+  {
+    "id": 8,
+    "thoi_gian": "Q2/2023",
+    "luong_giao_dich": 99000,
+    "ty_le_hap_thu": 131
+  },
+  {
+    "id": 9,
+    "thoi_gian": "Q3/2023",
+    "luong_giao_dich": 120000,
+    "ty_le_hap_thu": 95
+  },
+  {
+    "id": 10,
+    "thoi_gian": "Q4/2023",
+    "luong_giao_dich": 110000,
+    "ty_le_hap_thu": 125
+  },
+  {
+    "id": 11,
+    "thoi_gian": "Q1/2024",
+    "luong_giao_dich": 140000,
+    "ty_le_hap_thu": 92
+  },
+  {
+    "id": 12,
+    "thoi_gian": "Q2/2024",
+    "luong_giao_dich": 150000,
+    "ty_le_hap_thu": 91
+  },
+  {
+    "id": 13,
+    "thoi_gian": "Q3/2024",
+    "luong_giao_dich": 149000,
+    "ty_le_hap_thu": 120
+  }
+]
