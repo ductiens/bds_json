@@ -14,7 +14,8 @@ const __dirname = path.dirname(__filename);
 app.use(cors());
 
 // Serve static files from public directory
-app.use("/api", express.static(path.join(__dirname, "public")));
+// app.use("/api", express.static(path.join(__dirname, "public")));
+app.use("/api", express.static(path.join(__dirname, "docs")));
 
 // Root endpoint
 app.get("/", (req, res) => {

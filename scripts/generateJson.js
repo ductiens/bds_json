@@ -68,7 +68,7 @@ const __dirname = path.dirname(__filename);
 
 // Tạo thư mục public nếu chưa có
 // Giờ đây, __dirname đã được định nghĩa và dòng này sẽ chạy đúng
-const publicDir = path.join(__dirname, "../public");
+const publicDir = path.join(__dirname, "../docs");
 if (!fs.existsSync(publicDir)) {
   fs.mkdirSync(publicDir, { recursive: true });
 }
