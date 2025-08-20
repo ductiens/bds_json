@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": "2019",
+    "ty_dong": 210
+  },
+  {
+    "id": 2,
+    "thoi_gian": "2020",
+    "ty_dong": 220
+  },
+  {
+    "id": 3,
+    "thoi_gian": "2021",
+    "ty_dong": 450
+  },
+  {
+    "id": 4,
+    "thoi_gian": "2022",
+    "ty_dong": 500
+  },
+  {
+    "id": 5,
+    "thoi_gian": "2023",
+    "ty_dong": 250
+  },
+  {
+    "id": 6,
+    "thoi_gian": "F2024",
+    "ty_dong": 260
+  },
+  {
+    "id": 7,
+    "thoi_gian": "F2025",
+    "ty_dong": 500
+  },
+  {
+    "id": 8,
+    "thoi_gian": "F2026",
+    "ty_dong": 650
+  },
+  {
+    "id": 9,
+    "thoi_gian": "F2027",
+    "ty_dong": 600
+  },
+  {
+    "id": 10,
+    "thoi_gian": "F2028",
+    "ty_dong": 650
+  }
+]

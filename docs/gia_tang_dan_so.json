@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": 2009,
+    "ha_noi": 90,
+    "hcm": 250
+  },
+  {
+    "id": 2,
+    "thoi_gian": 2010,
+    "ha_noi": 175,
+    "hcm": 200
+  },
+  {
+    "id": 3,
+    "thoi_gian": 2011,
+    "ha_noi": 180,
+    "hcm": 210
+  },
+  {
+    "id": 4,
+    "thoi_gian": 2012,
+    "ha_noi": 165,
+    "hcm": 180
+  },
+  {
+    "id": 5,
+    "thoi_gian": 2013,
+    "ha_noi": 140,
+    "hcm": 190
+  },
+  {
+    "id": 6,
+    "thoi_gian": 2014,
+    "ha_noi": 150,
+    "hcm": 150
+  },
+  {
+    "id": 7,
+    "thoi_gian": 2015,
+    "ha_noi": 140,
+    "hcm": 165
+  },
+  {
+    "id": 8,
+    "thoi_gian": 2016,
+    "ha_noi": 145,
+    "hcm": 163
+  },
+  {
+    "id": 9,
+    "thoi_gian": 2017,
+    "ha_noi": 140,
+    "hcm": 166
+  },
+  {
+    "id": 10,
+    "thoi_gian": 2018,
+    "ha_noi": 80,
+    "hcm": 190
+  },
+  {
+    "id": 11,
+    "thoi_gian": 2018,
+    "ha_noi": 270,
+    "hcm": 188
+  },
+  {
+    "id": 12,
+    "thoi_gian": 2020,
+    "ha_noi": 192,
+    "hcm": 192
+  },
+  {
+    "id": 13,
+    "thoi_gian": 2021,
+    "ha_noi": 50,
+    "hcm": -60
+  },
+  {
+    "id": 14,
+    "thoi_gian": 2022,
+    "ha_noi": 100,
+    "hcm": 220
+  },
+  {
+    "id": 15,
+    "thoi_gian": 2023,
+    "ha_noi": 140,
+    "hcm": 50
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": 1967,
+    "so_nguoi": 900000
+  },
+  {
+    "id": 2,
+    "thoi_gian": 1969,
+    "so_nguoi": 850000
+  },
+  {
+    "id": 3,
+    "thoi_gian": 1971,
+    "so_nguoi": 990000
+  },
+  {
+    "id": 4,
+    "thoi_gian": 1973,
+    "so_nguoi": 960000
+  },
+  {
+    "id": 5,
+    "thoi_gian": 1975,
+    "so_nguoi": 1010000
+  },
+  {
+    "id": 6,
+    "thoi_gian": 1977,
+    "so_nguoi": 1180000
+  },
+  {
+    "id": 7,
+    "thoi_gian": 1979,
+    "so_nguoi": 1300000
+  },
+  {
+    "id": 8,
+    "thoi_gian": 1981,
+    "so_nguoi": 1010000
+  },
+  {
+    "id": 9,
+    "thoi_gian": 1983,
+    "so_nguoi": 1300000
+  },
+  {
+    "id": 10,
+    "thoi_gian": 1985,
+    "so_nguoi": 1309000
+  },
+  {
+    "id": 11,
+    "thoi_gian": 1987,
+    "so_nguoi": 1310000
+  },
+  {
+    "id": 12,
+    "thoi_gian": 1989,
+    "so_nguoi": 1308000
+  },
+  {
+    "id": 13,
+    "thoi_gian": 1991,
+    "so_nguoi": 1390000
+  },
+  {
+    "id": 14,
+    "thoi_gian": 1993,
+    "so_nguoi": 1310000
+  },
+  {
+    "id": 15,
+    "thoi_gian": 1995,
+    "so_nguoi": 1300000
+  },
+  {
+    "id": 16,
+    "thoi_gian": 1997,
+    "so_nguoi": 1100000
+  },
+  {
+    "id": 17,
+    "thoi_gian": 1999,
+    "so_nguoi": 960000
+  },
+  {
+    "id": 18,
+    "thoi_gian": 2001,
+    "so_nguoi": 850000
+  },
+  {
+    "id": 19,
+    "thoi_gian": 2003,
+    "so_nguoi": 900000
+  },
+  {
+    "id": 20,
+    "thoi_gian": 2005,
+    "so_nguoi": 910000
+  },
+  {
+    "id": 21,
+    "thoi_gian": 2007,
+    "so_nguoi": 890000
+  }
+]

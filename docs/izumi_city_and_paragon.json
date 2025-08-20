@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": "2025F",
+    "doanh_so": 900,
+    "doanh_thu": 0,
+    "loi_nhuan_gop": 0
+  },
+  {
+    "id": 2,
+    "thoi_gian": "2026F",
+    "doanh_so": 5500,
+    "doanh_thu": 2000,
+    "loi_nhuan_gop": 900
+  },
+  {
+    "id": 3,
+    "thoi_gian": "2027F",
+    "doanh_so": 7900,
+    "doanh_thu": 4000,
+    "loi_nhuan_gop": 1500
+  },
+  {
+    "id": 4,
+    "thoi_gian": "2028F",
+    "doanh_so": 8500,
+    "doanh_thu": 8000,
+    "loi_nhuan_gop": 3000
+  },
+  {
+    "id": 5,
+    "thoi_gian": "2029F",
+    "doanh_so": 5000,
+    "doanh_thu": 9000,
+    "loi_nhuan_gop": 4500
+  }
+]

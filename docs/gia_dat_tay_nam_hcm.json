@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": "Q4/2019",
+    "west_gate": 30,
+    "mizuki_park": 32,
+    "lovera_vista": 30,
+    "akari_city": 35
+  },
+  {
+    "id": 2,
+    "thoi_gian": "Q1/2020",
+    "west_gate": 29,
+    "mizuki_park": 33,
+    "lovera_vista": 31,
+    "akari_city": 36
+  },
+  {
+    "id": 3,
+    "thoi_gian": "Q2/2020",
+    "west_gate": 32,
+    "mizuki_park": 34,
+    "lovera_vista": 30,
+    "akari_city": 37
+  },
+  {
+    "id": 4,
+    "thoi_gian": "Q3/2020",
+    "west_gate": 31,
+    "mizuki_park": 35,
+    "lovera_vista": 31,
+    "akari_city": 35
+  },
+  {
+    "id": 5,
+    "thoi_gian": "Q4/2020",
+    "west_gate": 33,
+    "mizuki_park": 36,
+    "lovera_vista": 32,
+    "akari_city": 36
+  },
+  {
+    "id": 6,
+    "thoi_gian": "Q1/2021",
+    "west_gate": 36,
+    "mizuki_park": 37,
+    "lovera_vista": 33,
+    "akari_city": 36
+  },
+  {
+    "id": 7,
+    "thoi_gian": "Q2/2021",
+    "west_gate": 35,
+    "mizuki_park": 38,
+    "lovera_vista": 32,
+    "akari_city": 35
+  },
+  {
+    "id": 8,
+    "thoi_gian": "Q3/2021",
+    "west_gate": 34,
+    "mizuki_park": 39,
+    "lovera_vista": 34,
+    "akari_city": 37
+  },
+  {
+    "id": 9,
+    "thoi_gian": "Q4/2021",
+    "west_gate": 36,
+    "mizuki_park": 40,
+    "lovera_vista": 33,
+    "akari_city": 38
+  },
+  {
+    "id": 10,
+    "thoi_gian": "Q1/2022",
+    "west_gate": 37,
+    "mizuki_park": 39,
+    "lovera_vista": 34,
+    "akari_city": 40
+  },
+  {
+    "id": 11,
+    "thoi_gian": "Q2/2022",
+    "west_gate": 37,
+    "mizuki_park": 42,
+    "lovera_vista": 35,
+    "akari_city": 42
+  },
+  {
+    "id": 12,
+    "thoi_gian": "Q3/2022",
+    "west_gate": 38,
+    "mizuki_park": 44,
+    "lovera_vista": 35,
+    "akari_city": 43
+  },
+  {
+    "id": 13,
+    "thoi_gian": "Q4/2022",
+    "west_gate": 40,
+    "mizuki_park": 42,
+    "lovera_vista": 34,
+    "akari_city": 42
+  },
+  {
+    "id": 14,
+    "thoi_gian": "Q1/2023",
+    "west_gate": 38,
+    "mizuki_park": 43,
+    "lovera_vista": 33,
+    "akari_city": 44
+  },
+  {
+    "id": 15,
+    "thoi_gian": "Q2/2023",
+    "west_gate": 40,
+    "mizuki_park": 41,
+    "lovera_vista": 32,
+    "akari_city": 42
+  },
+  {
+    "id": 16,
+    "thoi_gian": "Q3/2023",
+    "west_gate": 37,
+    "mizuki_park": 43,
+    "lovera_vista": 31,
+    "akari_city": 45
+  },
+  {
+    "id": 17,
+    "thoi_gian": "Q4/2023",
+    "west_gate": 38,
+    "mizuki_park": 44,
+    "lovera_vista": 30,
+    "akari_city": 48
+  },
+  {
+    "id": 18,
+    "thoi_gian": "Q1/2024",
+    "west_gate": 35,
+    "mizuki_park": 42,
+    "lovera_vista": 29,
+    "akari_city": 45
+  },
+  {
+    "id": 19,
+    "thoi_gian": "Q2/2024",
+    "west_gate": 32,
+    "mizuki_park": 43,
+    "lovera_vista": 31,
+    "akari_city": 46
+  },
+  {
+    "id": 20,
+    "thoi_gian": "Q3/2024",
+    "west_gate": 34,
+    "mizuki_park": 45,
+    "lovera_vista": 34,
+    "akari_city": 45
+  }
+]

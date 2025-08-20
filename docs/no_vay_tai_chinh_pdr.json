@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": "2019",
+    "no_vay": 1500,
+    "no_tin_dung": 500
+  },
+  {
+    "id": 2,
+    "thoi_gian": "2020",
+    "no_vay": 600,
+    "no_tin_dung": 1100
+  },
+  {
+    "id": 3,
+    "thoi_gian": "2021",
+    "no_vay": 2500,
+    "no_tin_dung": 1000
+  },
+  {
+    "id": 4,
+    "thoi_gian": "2022",
+    "no_vay": 2600,
+    "no_tin_dung": 2000
+  },
+  {
+    "id": 5,
+    "thoi_gian": "2023",
+    "no_vay": 0,
+    "no_tin_dung": 3000
+  },
+  {
+    "id": 6,
+    "thoi_gian": "Q3.2024",
+    "no_vay": 0,
+    "no_tin_dung": 4500
+  }
+]

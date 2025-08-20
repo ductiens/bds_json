@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": "Q1/2021",
+    "ty_dong": 9999
+  },
+  {
+    "id": 2,
+    "thoi_gian": "Q2/2021",
+    "ty_dong": 10000
+  },
+  {
+    "id": 3,
+    "thoi_gian": "Q3/2021",
+    "ty_dong": 5000
+  },
+  {
+    "id": 4,
+    "thoi_gian": "Q4/2021",
+    "ty_dong": -1000
+  },
+  {
+    "id": 5,
+    "thoi_gian": "Q1/2022",
+    "ty_dong": 15000
+  },
+  {
+    "id": 6,
+    "thoi_gian": "Q2/2022",
+    "ty_dong": 35000
+  },
+  {
+    "id": 7,
+    "thoi_gian": "Q3/2022",
+    "ty_dong": 2000
+  },
+  {
+    "id": 8,
+    "thoi_gian": "Q4/2022",
+    "ty_dong": 10000
+  },
+  {
+    "id": 9,
+    "thoi_gian": "Q1/2023",
+    "ty_dong": 1000
+  },
+  {
+    "id": 10,
+    "thoi_gian": "Q2/2023",
+    "ty_dong": -4000
+  },
+  {
+    "id": 11,
+    "thoi_gian": "Q3/2023",
+    "ty_dong": 3000
+  },
+  {
+    "id": 12,
+    "thoi_gian": "Q4/2023",
+    "ty_dong": 6000
+  },
+  {
+    "id": 13,
+    "thoi_gian": "Q1/2024",
+    "ty_dong": 10000
+  },
+  {
+    "id": 14,
+    "thoi_gian": "Q2/2024",
+    "ty_dong": 5000
+  },
+  {
+    "id": 15,
+    "thoi_gian": "Q3/2024",
+    "ty_dong": 1000
+  }
+]

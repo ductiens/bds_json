@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": "2018",
+    "trieu_kwh": 300
+  },
+  {
+    "id": 2,
+    "thoi_gian": "2019",
+    "trieu_kwh": 400
+  },
+  {
+    "id": 3,
+    "thoi_gian": "2020",
+    "trieu_kwh": 590
+  },
+  {
+    "id": 4,
+    "thoi_gian": "2021",
+    "trieu_kwh": 900
+  },
+  {
+    "id": 5,
+    "thoi_gian": "2022",
+    "trieu_kwh": 1700
+  },
+  {
+    "id": 6,
+    "thoi_gian": "2023",
+    "trieu_kwh": 1550
+  },
+  {
+    "id": 7,
+    "thoi_gian": "2024F",
+    "trieu_kwh": 1400
+  },
+  {
+    "id": 8,
+    "thoi_gian": "2025F",
+    "trieu_kwh": 1600
+  },
+  {
+    "id": 9,
+    "thoi_gian": "2026F",
+    "trieu_kwh": 1600
+  }
+]

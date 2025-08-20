@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "thoi_gian": "Q1/2023",
+    "ty_dong": 200
+  },
+  {
+    "id": 2,
+    "thoi_gian": "Q2/2023",
+    "ty_dong": 850
+  },
+  {
+    "id": 3,
+    "thoi_gian": "Q3/2023",
+    "ty_dong": 300
+  },
+  {
+    "id": 4,
+    "thoi_gian": "Q4/2023",
+    "ty_dong": 1500
+  },
+  {
+    "id": 5,
+    "thoi_gian": "Q1/2024",
+    "ty_dong": 200
+  },
+  {
+    "id": 6,
+    "thoi_gian": "Q2/2024",
+    "ty_dong": 250
+  },
+  {
+    "id": 7,
+    "thoi_gian": "Q3/2024",
+    "ty_dong": 300
+  },
+  {
+    "id": 8,
+    "thoi_gian": "Q4/2024",
+    "ty_dong": 4400
+  }
+]
