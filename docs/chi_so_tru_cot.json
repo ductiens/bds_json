@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Thể chế",
+    "value": 60.2,
+    "type": "dauvao"
+  },
+  {
+    "name": "Vốn con người và Nghiên cứu",
+    "value": 74.5,
+    "type": "dauvao"
+  },
+  {
+    "name": "Cơ sở hạ tầng",
+    "value": 25.8,
+    "type": "dauvao"
+  },
+  {
+    "name": "Trình độ phát triển của thị trường",
+    "value": 68,
+    "type": "dauvao"
+  },
+  {
+    "name": "Trình độ phát triển của doanh nghiệp",
+    "value": 51.3,
+    "type": "dauvao"
+  },
+  {
+    "name": "Sản phẩm tri thức, sáng tạo và công nghệ",
+    "value": 72.3,
+    "type": "daura"
+  },
+  {
+    "name": "Tác động",
+    "value": 91.4,
+    "type": "daura"
+  }
+]

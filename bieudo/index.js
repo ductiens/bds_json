@@ -605,3 +605,21 @@ export const gia_dat_tay_nam_hcm = [
   { id: 19, thoi_gian: "Q2/2024", west_gate: 32, mizuki_park: 43, lovera_vista: 31, akari_city: 46 },
   { id: 20, thoi_gian: "Q3/2024", west_gate: 34, mizuki_park: 45, lovera_vista: 34, akari_city: 45 },
 ];
+
+export const chi_so_tru_cot = [
+  { name: "Thể chế", value: 60.2, type: "dauvao" },
+  { name: "Vốn con người và Nghiên cứu", value: 74.5, type: "dauvao" },
+  { name: "Cơ sở hạ tầng", value: 25.8, type: "dauvao" },
+  { name: "Trình độ phát triển của thị trường", value: 68, type: "dauvao" },
+  { name: "Trình độ phát triển của doanh nghiệp", value: 51.3, type: "dauvao" },
+  { name: "Sản phẩm tri thức, sáng tạo và công nghệ", value: 72.3, type: "daura" },
+  { name: "Tác động", value: 91.4, type: "daura" },
+];
+
+export const chi_so_doi_moi = [
+  { year: 2021, value: 30 },
+  { year: 2022, value: 75 },
+  { year: 2023, value: 15 },
+  { year: 2024, value: 45 },
+  { year: 2025, value: 65 },
+];

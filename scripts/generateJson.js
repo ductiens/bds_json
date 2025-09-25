@@ -1,7 +1,7 @@
 // const fs = require("fs");
 // const path = require("path");
 import path from "path";
-import fs from "fs"
+import fs from "fs";
 import { fileURLToPath } from "url";
 import {
   giao_dich_ty_le_hap_thu,
@@ -55,6 +55,8 @@ import {
   the_gio,
   chuyen_nhuong_bds_agg,
   gia_dat_tay_nam_hcm,
+  chi_so_tru_cot,
+  chi_so_doi_moi
 } from "../bieudo/index.js";
 
 // Tạo thư mục public nếu chưa có
@@ -130,6 +132,8 @@ const jsonFiles = {
   "the_gio.json": the_gio,
   "chuyen_nhuong_bds_agg.json": chuyen_nhuong_bds_agg,
   "gia_dat_tay_nam_hcm.json": gia_dat_tay_nam_hcm,
+  "chi_so_tru_cot.json": chi_so_tru_cot,
+  "chi_so_doi_moi.json": chi_so_doi_moi,
 };
 
 // Tạo các file JSON
