@@ -607,19 +607,19 @@ export const gia_dat_tay_nam_hcm = [
 ];
 
 export const chi_so_tru_cot = [
-  { name: "Thể chế", value: 60.2, type: "dauvao" },
-  { name: "Vốn con người và Nghiên cứu", value: 74.5, type: "dauvao" },
-  { name: "Cơ sở hạ tầng", value: 25.8, type: "dauvao" },
-  { name: "Trình độ phát triển của thị trường", value: 68, type: "dauvao" },
-  { name: "Trình độ phát triển của doanh nghiệp", value: 51.3, type: "dauvao" },
-  { name: "Sản phẩm tri thức, sáng tạo và công nghệ", value: 72.3, type: "daura" },
-  { name: "Tác động", value: 91.4, type: "daura" },
+  { id: 1, name: "Thể chế", value: 60.2, type: "dauvao" },
+  { id: 2, name: "Vốn con người và Nghiên cứu", value: 74.5, type: "dauvao" },
+  { id: 3, name: "Cơ sở hạ tầng", value: 25.8, type: "dauvao" },
+  { id: 4, name: "Trình độ phát triển của thị trường", value: 68, type: "dauvao" },
+  { id: 5, name: "Trình độ phát triển của doanh nghiệp", value: 51.3, type: "dauvao" },
+  { id: 6, name: "Sản phẩm tri thức, sáng tạo và công nghệ", value: 72.3, type: "daura" },
+  { id: 7, name: "Tác động", value: 91.4, type: "daura" },
 ];
 
 export const chi_so_doi_moi = [
-  { year: 2021, value: 30 },
-  { year: 2022, value: 75 },
-  { year: 2023, value: 15 },
-  { year: 2024, value: 45 },
-  { year: 2025, value: 65 },
+  { id: 1, year: 2021, value: 30 },
+  { id: 2, year: 2022, value: 75 },
+  { id: 3, year: 2023, value: 15 },
+  { id: 4, year: 2024, value: 45 },
+  { id: 5, year: 2025, value: 65 },
 ];
